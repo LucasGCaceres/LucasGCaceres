@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Lucas 👋
 
-<!--
-**LucasGCaceres/LucasGCaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas. Me interesa menos escribir código 
+y más entender problemas y resolverlos bien.
 
-Here are some ideas to get you started:
+Este perfil es una colección de casos: problemas reales que me crucé y 
+cómo los resolví. Cada proyecto cuenta la misma historia en cuatro partes: 
+el problema, cómo lo pensé, qué hice, y qué cambió después.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Cómo trabajo
+No arranco por la herramienta. Arranco por entender qué molesta, a quién, 
+y por qué. La tecnología viene después, como medio y no como fin.
+
+## 🔍 En qué ando
+- Trabajando como Soporte IT
+- Construyendo un portfolio orientado a "problema → solución"
+
+## 📂 Proyectos
+- **[Gastos](https://github.com/LucasGCaceres/Gastos)** — programa para 
+  planificar y trazar mis gastos, hechos y por hacer.
+
+## 📫 Contacto
+- LinkedIn: [lucas-caceres](https://www.linkedin.com/in/lucas-caceres-b6512b223)
+- Gmail: lucasgcaceres1@gmail.com
