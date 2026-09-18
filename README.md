@@ -12,7 +12,7 @@ No arranco por la herramienta. Arranco por entender qué molesta, a quién,
 y por qué. La tecnología viene después, como medio y no como fin.
 
 ## 🔍 En qué ando
-- Trabajando como Soporte IT
+- Trabajando como Soporte IT en GateGourmet
 - Construyendo un portfolio orientado a "problema → solución"
 
 ## 📂 Proyectos
